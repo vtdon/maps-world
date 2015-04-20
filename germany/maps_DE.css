@@ -1,0 +1,36 @@
+.def_color			{fill:rgb(75,0,130);}
+
+polygon[id$="nder-th"]		{fill:rgb(220,0,220);}
+polygon[id$="nder-sh"]		{fill:rgb(170,0,170);}
+polygon[id$="nder-st"]		{fill:rgb(120,0,120);}
+polygon[id$="nder-sn"]		{fill:rgb(70,0,70);}
+polygon[id$="nder-sl"]		{fill:rgb(220,220,0);}
+polygon[id$="nder-rp"]		{fill:rgb(170,170,0);}
+polygon[id$="nder-nw"]		{fill:rgb(120,120,0);}
+polygon[id$="nder-ni"]		{fill:rgb(70,70,0);}
+polygon[id$="nder-mv"]		{fill:rgb(0,220,220);}
+polygon[id$="nder-he_1_"]	{fill:rgb(0,120,120);}
+polygon[id$="nder-hh"]		{fill:rgb(0,20,20);}
+polygon[id$="nder-hb"]		{fill:rgb(0,70,70);}
+polygon[id$="nder-bb"]		{fill:rgb(70,0,170);}
+polygon[id$="nder-be"]		{fill:rgb(70,0,120);}
+polygon[id$="nder-by"]		{fill:rgb(170,0,70);}
+polygon[id$="nder-bw"]		{fill:rgb(120,0,70);}
+
+
+path[id$="nder-th"]		{fill:rgb(220,0,220);}
+path[id$="nder-sh"]		{fill:rgb(170,0,170);}
+path[id$="nder-st"]		{fill:rgb(120,0,120);}
+path[id$="nder-sn"]		{fill:rgb(70,0,70);}
+path[id$="nder-sl"]		{fill:rgb(220,220,0);}
+path[id$="nder-rp"]		{fill:rgb(170,170,0);}
+path[id$="nder-nw"]		{fill:rgb(120,120,0);}
+path[id$="nder-ni"]		{fill:rgb(70,70,0);}
+path[id$="nder-mv"]		{fill:rgb(0,220,220);}
+path[id$="nder-he_1_"]	{fill:rgb(0,170,170);}
+path[id$="nder-hh"]		{fill:rgb(0,120,120);}
+path[id$="nder-hb"]		{fill:rgb(0,70,70);}
+path[id$="nder-bb"]		{fill:rgb(70,0,170);}
+path[id$="nder-be"]		{fill:rgb(70,0,120);}
+path[id$="nder-by"]		{fill:rgb(170,0,70);}
+path[id$="nder-bw"]		{fill:rgb(120,0,70);}
